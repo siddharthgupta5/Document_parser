@@ -1,0 +1,252 @@
+{
+  "document_metadata": {
+    "insurer_name": "Acko General Insurance Limited",
+    "registration_number": "157",
+    "reporting_period": "6/30/2025"
+  },
+  "summary_statistics": {
+    "total_premium_lakhs": 50698.0,
+    "total_claims_paid_lakhs": 0
+  },
+  "premiums": [
+    {
+      "name": "Motor OD Premium",
+      "value": 9585.0,
+      "category": "premium",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Motor TP Premium",
+      "value": 14373.0,
+      "category": "premium",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Health Premium",
+      "value": 24405.0,
+      "category": "premium",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Personal Accident Premium",
+      "value": 306.0,
+      "category": "premium",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Travel Premium",
+      "value": 1159.0,
+      "category": "premium",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Public/ Product Liability Premium",
+      "value": 870.0,
+      "category": "premium",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-35"
+    }
+  ],
+  "claims": [],
+  "revenue_account": [
+    {
+      "name": "Operating Expenses",
+      "value": 12080.0,
+      "category": "expenses",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-1B"
+    },
+    {
+      "name": "Total Income",
+      "value": 48759.0,
+      "category": "revenue",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-1B"
+    },
+    {
+      "name": "Total Expenses",
+      "value": 44092.0,
+      "category": "expenses",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-1B"
+    },
+    {
+      "name": "Operating Profit",
+      "value": 4667.0,
+      "category": "profit_loss",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-1B"
+    }
+  ],
+  "expenses": [],
+  "investments": [],
+  "profit_loss": [],
+  "business_distribution": [],
+  "geographical_distribution": [
+    {
+      "name": "Karnataka - Total Premium",
+      "value": 2986.0,
+      "category": "geographical",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-34"
+    },
+    {
+      "name": "Maharashtra - Total Premium",
+      "value": 2816.0,
+      "category": "geographical",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-34"
+    },
+    {
+      "name": "Delhi - Total Premium",
+      "value": 1092.0,
+      "category": "geographical",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-34"
+    },
+    {
+      "name": "Tamil Nadu - Total Premium",
+      "value": 1589.0,
+      "category": "geographical",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-34"
+    },
+    {
+      "name": "Telangana - Total Premium",
+      "value": 904.0,
+      "category": "geographical",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-34"
+    },
+    {
+      "name": "Haryana - Total Premium",
+      "value": 661.0,
+      "category": "geographical",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-34"
+    },
+    {
+      "name": "Gujarat - Total Premium",
+      "value": 884.0,
+      "category": "geographical",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-34"
+    }
+  ],
+  "channel_wise_distribution": [
+    {
+      "name": "Corporate Agents -Others - Policies",
+      "value": 132735,
+      "category": "channel_wise",
+      "unit": "Number of Policies",
+      "form_number": "NL-36"
+    },
+    {
+      "name": "Corporate Agents -Others - Premium",
+      "value": 7511.0,
+      "category": "channel_wise",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-36"
+    },
+    {
+      "name": "Brokers - Policies",
+      "value": 77755,
+      "category": "channel_wise",
+      "unit": "Number of Policies",
+      "form_number": "NL-36"
+    },
+    {
+      "name": "Brokers - Premium",
+      "value": 12137.0,
+      "category": "channel_wise",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-36"
+    },
+    {
+      "name": "Total Policies (All Channels)",
+      "value": 827063,
+      "category": "business_metrics",
+      "unit": "Number of Policies",
+      "form_number": "NL-36"
+    },
+    {
+      "name": "Total Premium (All Channels)",
+      "value": 52665.0,
+      "category": "premium",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-36"
+    }
+  ],
+  "reinsurance": [
+    {
+      "name": "Total Premium Ceded",
+      "value": 149.43,
+      "category": "reinsurance",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-33"
+    },
+    {
+      "name": "GIC Re Premium Share",
+      "value": 17.0,
+      "category": "reinsurance",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-33"
+    },
+    {
+      "name": "FRBs Premium Share",
+      "value": 83.0,
+      "category": "reinsurance",
+      "unit": "Rs. Lakhs",
+      "form_number": "NL-33"
+    }
+  ],
+  "policy_metrics": [
+    {
+      "name": "Motor OD Policies",
+      "value": 589542,
+      "category": "business_metrics",
+      "unit": "Number of Policies",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Motor TP Policies",
+      "value": 208723,
+      "category": "business_metrics",
+      "unit": "Number of Policies",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Health Policies",
+      "value": 13599,
+      "category": "business_metrics",
+      "unit": "Number of Policies",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Personal Accident Policies",
+      "value": 46,
+      "category": "business_metrics",
+      "unit": "Number of Policies",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Travel Policies",
+      "value": 15116,
+      "category": "business_metrics",
+      "unit": "Number of Policies",
+      "form_number": "NL-35"
+    },
+    {
+      "name": "Public/ Product Liability Policies",
+      "value": 28,
+      "category": "business_metrics",
+      "unit": "Number of Policies",
+      "form_number": "NL-35"
+    }
+  ]
+}
